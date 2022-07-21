@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "¿Que es un objeto en Programación orientado a objetos?",
+    choices: ["Es un elemento independiente de un programa de computadora que representa a un grupo asociado de características y esta diseñado para tareas especif.",
+    "Es un programa que transforma código fuente escrito en java a un código neutral a la plataforma conocido como java.",
+    "Es aquel elemento que tiene relación con el almacenamiento de la Información y sus usos; es más cercana a las Personas y Computadoras", 
+    "Es un atributo de una parte de los datos que indica al ordenador (y/o al programador) algo sobre la clase de datos sobre los que se va a procesar."],
+    answer: "Es un elemento independiente de un programa de computadora que representa a un grupo asociado de características y esta diseñado para tareas especif.",
+  },
+  {
+    question: "¿Que es una variable local en Programación orientado a objetos?",
+    choices: ["Es un nombre que se asocia con una porción de la memoria del ordenador, en la que se guarda el valor asignado a dicha variable.",
+     "Estas se utilizan dentro de las funciones miembro o métodos.", 
+     "Es un grupo de sentencias que se comportan como una unidad.",
+     "Es una orden que se le da al programa para realizar una tarea específica."],
+    answer: "Estas se utilizan dentro de las funciones miembro o métodos.",
+  },
+  {
+    question: "¿Cuáles son los tipos de lenguaje de programación?",
+    choices: ["Lenguaje Estructural, Máquina, Ensambladores, Fisico-Humano, lenguajes de bajo nivel y de lenguajes de alto nivel",
+     "Únicamente de bajo nivel y lenguajes de alto nivel.", 
+     "El lenguaje máquina, Lenguajes ensambladores y de lenguajes de alto nivel", 
+     "MS-DOS, C, C++, Java, Visual Basic, SQL, SQL Server."],
+    answer: "El lenguaje máquina, Lenguajes ensambladores y de lenguajes de alto nivel",
+  },
+  {
+    question: "¿Que es un lenguaje de programación?",
+    choices: ["Es un compilador estable y potente para la solución de problemas humanos y los entienda físicamente la PC.",
+     "Se puede también utilizar una alternativa diferente de los compiladores para traducir lenguajes de alto nivel.", 
+     "Es un Programa que define un medio de comunicación compartido por un grupo de personas y la PC (por ejemplo: inglés o francés).", 
+     "Es un lenguaje o Sfw diseñado para describir un conjunto de acciones consecutivas que un equipo debe ejecutar."],
+    answer: "Es un lenguaje o Sfw diseñado para describir un conjunto de acciones consecutivas que un equipo debe ejecutar.",
+  },
+  {
+    question: "¿Que es un intérprete?",
+    choices: ["Es un programa informático capaz de analizar y ejecutar otros programas, escritos en un lenguaje de alto nivel.",
+     "Es un programa que transforma código fuente escrito en java a un código neutral a la plataforma conocido como java.", 
+     "Es un entorno de desarrollo integrado libre, hecho principalmente para el lenguaje de programación Java.", 
+     "Es un atributo de una parte de los datos que indica al ordenador (y/o al programador) algo sobre la clase de datos sobre los que se va a procesar"],
+    answer: "Es un programa informático capaz de analizar y ejecutar otros programas, escritos en un lenguaje de alto nivel.",
+  },
+];
